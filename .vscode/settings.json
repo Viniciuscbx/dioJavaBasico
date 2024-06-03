@@ -1,3 +1,10 @@
 {
-    "svn.ignoreMissingSvnWarning": true
+    "svn.ignoreMissingSvnWarning": true,
+    "graalvm.installations": [
+        "/Users/viniciusveloso/Documents/GitHub/graalvm-jdk-22.0.1+8.1/Contents/Home"
+    ],
+    "graalvm.home": "/Users/viniciusveloso/Documents/GitHub/graalvm-jdk-22.0.1+8.1/Contents/Home",
+    "terminal.integrated.env.osx": {
+        "GRAALVM_HOME": "/Users/viniciusveloso/Documents/GitHub/graalvm-jdk-22.0.1+8.1/Contents/Home"
+    }
 }
