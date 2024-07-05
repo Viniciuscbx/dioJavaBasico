@@ -1,3 +1,4 @@
+/*
 // controle de pacotes
 import // importa pacotes ou classes para dentro do codigo
 package // especifica a que pacote todas as classes de um arquivo pertencem
@@ -27,10 +28,8 @@ interface // especifica uma interface
 native // indica que um método está escrito em uma liguagem dependente de plataforma, como o C
 new // instancia um novo objeto, chamando seu construtor
 static // faz um método ou variável pertencer à classe ao invés de às instancias
-strictfp /* usado em frente a um médoto ou classe para indicar que os 
-números de ponto flutuantes seguirão as regras de ponto flutuante em 
-todas as expressões */
-synchronized /* indica que um método só pode ser acessado por uma thread de cada vez */
+strictfp // usado em frente a um médoto ou classe para indicar que os números de ponto flutuantes seguirão as regras de ponto flutuante em todas as expressões
+synchronized // indica que um método só pode ser acessado por uma thread de cada vez 
 transient // impede a serialização de campos
 volatile // indica que uma variável podser alterada durante o uso de threads
 
@@ -40,3 +39,4 @@ break // sai do bloco de código em que ele está
 case // executa um bloco de código dependendo do teste do switch
 continue // pula a execução do bloco que viria após essa linha e vai para a proxima passsagem do loop
 
+*/
