@@ -5,12 +5,17 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "dioJavaBasico_5a30fc4b"
+        },
+        {
             "type": "java+",
             "request": "launch",
             "name": "Launch Java App"
         },
-
-        
         {
             "type": "jdk",
             "request": "launch",
